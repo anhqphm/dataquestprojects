@@ -8,5 +8,5 @@ Learning data science for beginner
 3. https://www.datacamp.com
 4. https://www.udacity.com/course/data-analyst-nanodegree--nd002
 5. http://cs109.github.io/2015/
-6. https://www.weforum.org/agenda/2014/12/the-free-big-data-sources-you-should-know/
-
+6. https://www.kaggle.com/wiki/Tutorials
+7. https://www.coursera.org/learn/machine-learning
