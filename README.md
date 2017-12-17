@@ -1,8 +1,10 @@
-#Dataquest Projects
+# Dataquest Projects
 
-Learning data science for beginner 
+Learning data science for beginner. 
 
-##Resources:
+This is the repository for my practice at dataquest.io
+
+## Resources:
 1. https://trello.com/b/rbpEfMld/data-science
 2. https://www.dataquest.io/
 3. https://www.datacamp.com
